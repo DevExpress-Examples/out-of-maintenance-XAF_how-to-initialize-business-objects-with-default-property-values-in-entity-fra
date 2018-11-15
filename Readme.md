@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Contact.cs](./CS/InitializeObjects.Module/BusinessObjects/Contact.cs) (VB: [Contact.vb](./VB/InitializeObjects.Module/BusinessObjects/Contact.vb))**
+* [Updater.cs](./CS/InitializeObjects.Module/DatabaseUpdate/Updater.cs) (VB: [Updater.vb](./VB/InitializeObjects.Module/DatabaseUpdate/Updater.vb))
+<!-- default file list end -->
 # How to: Initialize Business Objects with Default Property Values in Entity Framework
 
 
